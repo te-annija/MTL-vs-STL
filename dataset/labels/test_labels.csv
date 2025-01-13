@@ -117,7 +117,6 @@
 59;150;611;458;154;28;5;Land Rover Range Rover SUV 2012;Land Rover;SUV;00116.jpg
 5;42;494;298;46;6;1;Bugatti Veyron 16.4 Coupe 2009;Bugatti;Coupe;00117.jpg
 13;127;629;415;61;9;4;Chevrolet Impala Sedan 2007;Chevrolet;Sedan;00118.jpg
-361;347;1189;747;9;2;1;Aston Martin V8 Vantage Coupe 2012;Aston;Coupe;00119.jpg
 14;63;275;188;31;4;0;BMW 6 Series Convertible 2007;BMW;Convertible;00120.jpg
 47;164;1015;754;75;9;6;Chevrolet Silverado 1500 Regular Cab 2012;Chevrolet;Truck;00121.jpg
 61;124;628;427;120;18;5;GMC Yukon Hybrid SUV 2012;GMC;SUV;00122.jpg
@@ -189,7 +188,6 @@
 7;57;255;159;161;34;0;Mercedes-Benz 300-Class Convertible 1993;Mercedes-Benz;Convertible;00188.jpg
 27;24;611;417;49;7;4;Buick Verano Sedan 2012;Buick;Sedan;00189.jpg
 24;51;252;168;33;4;5;BMW X6 SUV 2012;BMW;SUV;00190.jpg
-3;110;1189;686;79;10;4;Chrysler 300 SRT-8 2010;Chrysler;Sedan;00191.jpg
 15;156;920;614;18;3;8;Audi 100 Wagon 1994;Audi;Wagon;00192.jpg
 158;87;859;589;35;4;4;BMW M5 Sedan 2010;BMW;Sedan;00193.jpg
 104;180;916;563;110;17;5;Ford Edge SUV 2012;Ford;SUV;00194.jpg
@@ -212,7 +210,6 @@
 26;37;572;429;43;5;1;Bentley Continental GT Coupe 2007;Bentley;Coupe;00211.jpg
 85;222;727;424;112;17;1;Ford GT Coupe 2006;Ford;Coupe;00212.jpg
 166;28;642;483;167;35;4;Mitsubishi Lancer Sedan 2012;Mitsubishi;Sedan;00213.jpg
-91;59;520;386;9;2;1;Aston Martin V8 Vantage Coupe 2012;Aston;Coupe;00214.jpg
 47;161;569;366;172;37;1;Plymouth Neon Coupe 1999;Plymouth;Coupe;00215.jpg
 93;137;901;686;130;22;2;Hyundai Veloster Hatchback 2012;Hyundai;Hatchback;00216.jpg
 219;479;1077;808;173;38;4;Porsche Panamera Sedan 2012;Porsche;Sedan;00217.jpg
@@ -355,7 +352,6 @@
 165;168;469;364;145;26;5;Jeep Patriot SUV 2012;Jeep;SUV;00354.jpg
 13;49;394;232;78;10;3;Chrysler Town and Country Minivan 2012;Chrysler;Minivan;00355.jpg
 8;21;492;270;159;32;5;Mazda Tribute SUV 2011;Mazda;SUV;00356.jpg
-103;11;439;288;85;12;3;Dodge Caravan Minivan 1997;Dodge;Minivan;00357.jpg
 9;48;579;410;154;28;5;Land Rover Range Rover SUV 2012;Land Rover;SUV;00358.jpg
 25;41;588;419;94;12;5;Dodge Durango SUV 2012;Dodge;SUV;00359.jpg
 50;111;602;351;27;4;0;BMW 1 Series Convertible 2012;BMW;Convertible;00360.jpg
@@ -466,7 +462,6 @@
 31;105;597;359;168;36;2;Nissan Leaf Hatchback 2012;Nissan;Hatchback;00465.jpg
 17;50;290;179;141;23;1;Infiniti G Coupe IPL 2012;Infiniti;Coupe;00466.jpg
 14;53;622;310;9;2;1;Aston Martin V8 Vantage Coupe 2012;Aston;Coupe;00467.jpg
-41;55;150;148;158;31;0;Maybach Landaulet Convertible 2012;Maybach;Convertible;00468.jpg
 47;117;701;357;105;16;4;Fisker Karma Sedan 2012;Fisker;Sedan;00469.jpg
 117;20;613;486;178;41;2;Scion xD Hatchback 2012;Scion;Hatchback;00470.jpg
 12;68;292;212;48;7;5;Buick Rainier SUV 2007;Buick;SUV;00471.jpg
@@ -555,7 +550,6 @@
 2;24;700;499;125;20;6;HUMMER H2 SUT Crew Cab 2009;HUMMER;Truck;00554.jpg
 139;477;1906;1387;68;9;0;Chevrolet TrailBlazer SS 2009;Chevrolet;Convertible;00555.jpg
 39;41;223;148;51;8;4;Cadillac CTS-V Sedan 2012;Cadillac;Sedan;00556.jpg
-17;10;263;122;9;2;1;Aston Martin V8 Vantage Coupe 2012;Aston;Coupe;00557.jpg
 82;71;521;369;47;7;4;Buick Regal GS 2012;Buick;Sedan;00558.jpg
 20;68;269;189;56;9;1;Chevrolet Corvette ZR1 2012;Chevrolet;Coupe;00559.jpg
 1;18;424;207;180;42;1;Spyker C8 Coupe 2009;Spyker;Coupe;00560.jpg
@@ -600,7 +594,6 @@
 38;56;349;232;35;4;4;BMW M5 Sedan 2010;BMW;Sedan;00599.jpg
 42;91;613;395;95;12;5;Dodge Durango SUV 2007;Dodge;SUV;00600.jpg
 50;91;609;395;81;10;0;Chrysler PT Cruiser Convertible 2008;Chrysler;Convertible;00601.jpg
-135;429;915;762;173;38;4;Porsche Panamera Sedan 2012;Porsche;Sedan;00602.jpg
 40;68;263;187;25;3;1;Audi TT RS Coupe 2012;Audi;Coupe;00603.jpg
 300;253;1670;1011;23;3;4;Audi S4 Sedan 2012;Audi;Sedan;00604.jpg
 37;20;359;266;39;5;0;Bentley Continental Supersports Conv. Convertible 2012;Bentley;Convertible;00605.jpg
@@ -758,7 +751,6 @@
 28;33;626;286;11;2;1;Aston Martin Virage Coupe 2012;Aston;Coupe;00757.jpg
 20;87;382;242;22;3;1;Audi S5 Coupe 2012;Audi;Coupe;00758.jpg
 25;44;237;177;148;26;5;Jeep Grand Cherokee SUV 2012;Jeep;SUV;00759.jpg
-8;73;98;105;151;27;1;Lamborghini Aventador Coupe 2012;Lamborghini;Coupe;00760.jpg
 25;31;567;433;131;22;5;Hyundai Santa Fe SUV 2012;Hyundai;SUV;00761.jpg
 25;120;617;361;159;32;5;Mazda Tribute SUV 2011;Mazda;SUV;00762.jpg
 7;65;257;158;53;8;6;Cadillac Escalade EXT Crew Cab 2007;Cadillac;Truck;00763.jpg
@@ -857,7 +849,6 @@
 89;28;491;293;35;4;4;BMW M5 Sedan 2010;BMW;Sedan;00856.jpg
 61;117;537;371;113;17;6;Ford F-150 Regular Cab 2012;Ford;Truck;00857.jpg
 90;66;394;278;111;17;6;Ford Ranger SuperCab 2011;Ford;Truck;00858.jpg
-163;151;604;431;63;9;4;Chevrolet Sonic Sedan 2012;Chevrolet;Sedan;00859.jpg
 31;73;611;415;169;36;7;Nissan NV Passenger Van 2012;Nissan;Van;00860.jpg
 11;53;626;409;171;36;1;Nissan 240SX Coupe 1998;Nissan;Coupe;00861.jpg
 39;73;352;216;70;9;6;Chevrolet Silverado 1500 Classic Extended Cab 2007;Chevrolet;Truck;00862.jpg
@@ -971,7 +962,6 @@
 123;106;364;221;29;4;4;BMW 3 Series Sedan 2012;BMW;Sedan;00970.jpg
 19;62;282;189;162;34;4;Mercedes-Benz C-Class Sedan 2012;Mercedes-Benz;Sedan;00971.jpg
 2;56;300;185;160;33;1;McLaren MP4-12C Coupe 2012;McLaren;Coupe;00972.jpg
-129;119;516;284;56;9;1;Chevrolet Corvette ZR1 2012;Chevrolet;Coupe;00973.jpg
 11;33;257;167;70;9;6;Chevrolet Silverado 1500 Classic Extended Cab 2007;Chevrolet;Truck;00974.jpg
 12;48;280;170;177;40;4;Rolls-Royce Phantom Sedan 2012;Rolls-Royce;Sedan;00975.jpg
 16;95;636;383;7;1;2;Acura ZDX Hatchback 2012;Acura;Hatchback;00976.jpg
@@ -1351,7 +1341,6 @@
 3;71;255;162;119;18;7;GMC Savana Van 2012;GMC;Van;01350.jpg
 259;277;939;521;26;4;4;BMW ActiveHybrid 5 Sedan 2012;BMW;Sedan;01351.jpg
 45;135;520;377;100;14;0;FIAT 500 Convertible 2012;FIAT;Convertible;01352.jpg
-1;60;113;122;59;9;0;Chevrolet Camaro Convertible 2012;Chevrolet;Convertible;01353.jpg
 27;68;605;407;62;9;5;Chevrolet Tahoe Hybrid SUV 2012;Chevrolet;SUV;01354.jpg
 39;103;400;288;80;10;0;Chrysler Crossfire Convertible 2008;Chrysler;Convertible;01355.jpg
 54;204;677;461;169;36;7;Nissan NV Passenger Van 2012;Nissan;Van;01356.jpg
@@ -1429,7 +1418,6 @@
 179;112;441;244;49;7;4;Buick Verano Sedan 2012;Buick;Sedan;01428.jpg
 83;134;1132;594;7;1;2;Acura ZDX Hatchback 2012;Acura;Hatchback;01429.jpg
 111;44;464;267;30;4;8;BMW 3 Series Wagon 2012;BMW;Wagon;01430.jpg
-607;46;1497;749;112;17;1;Ford GT Coupe 2006;Ford;Coupe;01431.jpg
 70;153;971;711;20;3;4;Audi S6 Sedan 2011;Audi;Sedan;01432.jpg
 23;41;584;395;122;18;6;GMC Canyon Extended Cab 2012;GMC;Truck;01433.jpg
 75;80;563;398;71;9;7;Chevrolet Express Van 2007;Chevrolet;Van;01434.jpg
@@ -1557,7 +1545,6 @@
 180;266;997;565;22;3;1;Audi S5 Coupe 2012;Audi;Coupe;01556.jpg
 156;19;598;315;117;17;4;Ford Fiesta Sedan 2012;Ford;Sedan;01557.jpg
 14;85;244;162;162;34;4;Mercedes-Benz C-Class Sedan 2012;Mercedes-Benz;Sedan;01558.jpg
-5;199;720;480;124;20;6;HUMMER H3T Crew Cab 2010;HUMMER;Truck;01559.jpg
 15;66;618;354;107;17;0;Ford Mustang Convertible 2007;Ford;Convertible;01560.jpg
 27;43;563;348;125;20;6;HUMMER H2 SUT Crew Cab 2009;HUMMER;Truck;01561.jpg
 11;320;932;663;82;11;8;Daewoo Nubira Wagon 2002;Daewoo;Wagon;01562.jpg
@@ -1646,7 +1633,6 @@
 33;131;590;301;185;44;4;Tesla Model S Sedan 2012;Tesla;Sedan;01645.jpg
 8;135;632;398;92;12;8;Dodge Magnum Wagon 2008;Dodge;Wagon;01646.jpg
 15;43;293;198;65;9;6;Chevrolet Avalanche Crew Cab 2012;Chevrolet;Truck;01647.jpg
-16;75;574;293;144;25;1;Jaguar XK XKR 2012;Jaguar;Coupe;01648.jpg
 35;113;611;393;16;3;4;Audi V8 Sedan 1994;Audi;Sedan;01649.jpg
 141;3;601;355;98;13;2;Eagle Talon Hatchback 1998;Eagle;Hatchback;01650.jpg
 12;54;461;324;138;22;4;Hyundai Sonata Sedan 2012;Hyundai;Sedan;01651.jpg
@@ -1659,7 +1645,6 @@
 384;261;3366;2484;49;7;4;Buick Verano Sedan 2012;Buick;Sedan;01658.jpg
 17;22;250;155;77;10;0;Chrysler Sebring Convertible 2010;Chrysler;Convertible;01659.jpg
 130;163;1462;982;170;36;2;Nissan Juke Hatchback 2012;Nissan;Hatchback;01660.jpg
-12;203;326;377;73;9;4;Chevrolet Malibu Sedan 2007;Chevrolet;Sedan;01661.jpg
 193;299;905;627;192;46;2;Volkswagen Beetle Hatchback 2012;Volkswagen;Hatchback;01662.jpg
 202;188;1408;902;183;43;2;Suzuki SX4 Hatchback 2012;Suzuki;Hatchback;01663.jpg
 14;51;636;396;72;9;1;Chevrolet Monte Carlo Coupe 2007;Chevrolet;Coupe;01664.jpg
@@ -1716,7 +1701,6 @@
 12;53;772;511;75;9;6;Chevrolet Silverado 1500 Regular Cab 2012;Chevrolet;Truck;01715.jpg
 130;466;1471;871;8;2;0;Aston Martin V8 Vantage Convertible 2012;Aston;Convertible;01716.jpg
 22;80;370;230;22;3;1;Audi S5 Coupe 2012;Audi;Coupe;01717.jpg
-11;69;369;260;183;43;2;Suzuki SX4 Hatchback 2012;Suzuki;Hatchback;01718.jpg
 70;238;727;523;19;3;2;Audi TT Hatchback 2011;Audi;Hatchback;01719.jpg
 24;25;238;160;76;10;5;Chrysler Aspen SUV 2009;Chrysler;SUV;01720.jpg
 7;20;255;175;121;18;5;GMC Acadia SUV 2012;GMC;SUV;01721.jpg
@@ -1837,7 +1821,6 @@
 36;29;311;269;150;27;1;Lamborghini Reventon Coupe 2008;Lamborghini;Coupe;01836.jpg
 65;146;612;413;58;9;5;Chevrolet Traverse SUV 2012;Chevrolet;SUV;01837.jpg
 9;17;440;234;32;4;5;BMW X5 SUV 2007;BMW;SUV;01838.jpg
-37;9;391;280;116;17;7;Ford E-Series Wagon Van 2012;Ford;Van;01839.jpg
 1;18;282;175;9;2;1;Aston Martin V8 Vantage Coupe 2012;Aston;Coupe;01840.jpg
 19;35;618;366;188;45;4;Toyota Corolla Sedan 2012;Toyota;Sedan;01841.jpg
 114;93;387;280;68;9;0;Chevrolet TrailBlazer SS 2009;Chevrolet;Convertible;01842.jpg
@@ -1887,7 +1870,6 @@
 50;48;613;451;106;17;6;Ford F-450 Super Duty Crew Cab 2012;Ford;Truck;01886.jpg
 11;60;796;535;1;0;5;AM General Hummer SUV 2000;AM;SUV;01887.jpg
 43;85;595;390;64;9;7;Chevrolet Express Cargo Van 2007;Chevrolet;Van;01888.jpg
-258;26;564;245;177;40;4;Rolls-Royce Phantom Sedan 2012;Rolls-Royce;Sedan;01889.jpg
 106;122;502;282;101;15;1;Ferrari FF Coupe 2012;Ferrari;Coupe;01890.jpg
 193;316;1697;1090;131;22;5;Hyundai Santa Fe SUV 2012;Hyundai;SUV;01891.jpg
 30;82;781;527;160;33;1;McLaren MP4-12C Coupe 2012;McLaren;Coupe;01892.jpg
@@ -2275,7 +2257,6 @@
 45;138;605;445;155;28;5;Land Rover LR2 SUV 2012;Land Rover;SUV;02274.jpg
 33;73;606;411;155;28;5;Land Rover LR2 SUV 2012;Land Rover;SUV;02275.jpg
 10;1;484;246;117;17;4;Ford Fiesta Sedan 2012;Ford;Sedan;02276.jpg
-31;128;398;302;169;36;7;Nissan NV Passenger Van 2012;Nissan;Van;02277.jpg
 30;114;606;449;168;36;2;Nissan Leaf Hatchback 2012;Nissan;Hatchback;02278.jpg
 61;89;448;334;106;17;6;Ford F-450 Super Duty Crew Cab 2012;Ford;Truck;02279.jpg
 127;117;616;408;119;18;7;GMC Savana Van 2012;GMC;Van;02280.jpg
@@ -2369,13 +2350,11 @@
 31;16;237;160;5;1;4;Acura TSX Sedan 2012;Acura;Sedan;02368.jpg
 4;23;298;183;138;22;4;Hyundai Sonata Sedan 2012;Hyundai;Sedan;02369.jpg
 153;176;542;369;177;40;4;Rolls-Royce Phantom Sedan 2012;Rolls-Royce;Sedan;02370.jpg
-66;247;571;602;170;36;2;Nissan Juke Hatchback 2012;Nissan;Hatchback;02371.jpg
 1;5;239;153;82;11;8;Daewoo Nubira Wagon 2002;Daewoo;Wagon;02372.jpg
 55;37;654;285;35;4;4;BMW M5 Sedan 2010;BMW;Sedan;02373.jpg
 67;42;596;416;10;2;0;Aston Martin Virage Convertible 2012;Aston;Convertible;02374.jpg
 42;70;237;178;38;4;0;BMW Z4 Convertible 2012;BMW;Convertible;02375.jpg
 34;25;560;373;100;14;0;FIAT 500 Convertible 2012;FIAT;Convertible;02376.jpg
-34;39;611;370;193;47;2;Volvo C30 Hatchback 2012;Volvo;Hatchback;02377.jpg
 24;79;624;409;75;9;6;Chevrolet Silverado 1500 Regular Cab 2012;Chevrolet;Truck;02378.jpg
 63;143;554;378;89;12;5;Dodge Journey SUV 2012;Dodge;SUV;02379.jpg
 22;46;220;161;190;46;2;Volkswagen Golf Hatchback 2012;Volkswagen;Hatchback;02380.jpg
@@ -2554,7 +2533,6 @@
 15;26;476;300;102;15;0;Ferrari California Convertible 2012;Ferrari;Convertible;02553.jpg
 45;7;905;725;88;12;7;Dodge Sprinter Cargo Van 2009;Dodge;Van;02554.jpg
 59;85;614;428;34;4;1;BMW M3 Coupe 2012;BMW;Coupe;02555.jpg
-26;61;411;231;150;27;1;Lamborghini Reventon Coupe 2008;Lamborghini;Coupe;02556.jpg
 17;5;406;206;31;4;0;BMW 6 Series Convertible 2007;BMW;Convertible;02557.jpg
 7;15;296;203;148;26;5;Jeep Grand Cherokee SUV 2012;Jeep;SUV;02558.jpg
 83;44;671;357;55;9;0;Chevrolet Corvette Convertible 2012;Chevrolet;Convertible;02559.jpg
@@ -2617,7 +2595,6 @@
 75;173;521;387;166;34;7;Mercedes-Benz Sprinter Van 2012;Mercedes-Benz;Van;02616.jpg
 51;63;466;294;127;21;3;Honda Odyssey Minivan 2007;Honda;Minivan;02617.jpg
 48;78;750;321;36;4;0;BMW M6 Convertible 2010;BMW;Convertible;02618.jpg
-117;62;295;207;21;3;0;Audi S5 Convertible 2012;Audi;Convertible;02619.jpg
 52;53;748;487;5;1;4;Acura TSX Sedan 2012;Acura;Sedan;02620.jpg
 16;17;529;267;65;9;6;Chevrolet Avalanche Crew Cab 2012;Chevrolet;Truck;02621.jpg
 41;11;634;262;193;47;2;Volvo C30 Hatchback 2012;Volvo;Hatchback;02622.jpg
@@ -3046,7 +3023,6 @@
 36;81;425;252;34;4;1;BMW M3 Coupe 2012;BMW;Coupe;03045.jpg
 28;12;201;107;151;27;1;Lamborghini Aventador Coupe 2012;Lamborghini;Coupe;03046.jpg
 687;569;927;793;149;26;5;Jeep Compass SUV 2012;Jeep;SUV;03047.jpg
-192;274;950;636;112;17;1;Ford GT Coupe 2006;Ford;Coupe;03048.jpg
 46;231;914;651;74;9;6;Chevrolet Silverado 1500 Extended Cab 2012;Chevrolet;Truck;03049.jpg
 5;46;252;151;113;17;6;Ford F-150 Regular Cab 2012;Ford;Truck;03050.jpg
 23;84;621;285;103;15;0;Ferrari 458 Italia Convertible 2012;Ferrari;Convertible;03051.jpg
@@ -3162,7 +3138,6 @@
 43;153;748;468;40;5;4;Bentley Arnage Sedan 2009;Bentley;Sedan;03161.jpg
 42;62;603;364;42;5;1;Bentley Continental GT Coupe 2012;Bentley;Coupe;03162.jpg
 17;76;451;275;49;7;4;Buick Verano Sedan 2012;Buick;Sedan;03163.jpg
-1;1;1018;1368;24;3;4;Audi S4 Sedan 2007;Audi;Sedan;03164.jpg
 15;144;628;356;182;43;4;Suzuki Kizashi Sedan 2012;Suzuki;Sedan;03165.jpg
 28;189;424;349;141;23;1;Infiniti G Coupe IPL 2012;Infiniti;Coupe;03166.jpg
 54;61;579;408;113;17;6;Ford F-150 Regular Cab 2012;Ford;Truck;03167.jpg
@@ -3428,7 +3403,6 @@
 45;161;596;366;8;2;0;Aston Martin V8 Vantage Convertible 2012;Aston;Convertible;03427.jpg
 21;33;288;177;90;12;6;Dodge Dakota Crew Cab 2010;Dodge;Truck;03428.jpg
 67;82;1140;594;50;7;5;Buick Enclave SUV 2012;Buick;SUV;03429.jpg
-50;129;527;436;105;16;4;Fisker Karma Sedan 2012;Fisker;Sedan;03430.jpg
 78;10;478;258;78;10;3;Chrysler Town and Country Minivan 2012;Chrysler;Minivan;03431.jpg
 26;30;276;211;80;10;0;Chrysler Crossfire Convertible 2008;Chrysler;Convertible;03432.jpg
 60;206;616;434;185;44;4;Tesla Model S Sedan 2012;Tesla;Sedan;03433.jpg
@@ -3819,7 +3793,6 @@
 13;30;285;182;5;1;4;Acura TSX Sedan 2012;Acura;Sedan;03818.jpg
 60;147;962;632;164;34;4;Mercedes-Benz E-Class Sedan 2012;Mercedes-Benz;Sedan;03819.jpg
 43;213;452;345;144;25;1;Jaguar XK XKR 2012;Jaguar;Coupe;03820.jpg
-127;387;538;562;38;4;0;BMW Z4 Convertible 2012;BMW;Convertible;03821.jpg
 23;99;311;194;104;15;1;Ferrari 458 Italia Coupe 2012;Ferrari;Coupe;03822.jpg
 39;17;216;151;171;36;1;Nissan 240SX Coupe 1998;Nissan;Coupe;03823.jpg
 58;161;543;322;66;9;4;Chevrolet Cobalt SS 2010;Chevrolet;Sedan;03824.jpg
@@ -4102,7 +4075,6 @@
 55;163;416;320;163;34;1;Mercedes-Benz SL-Class Coupe 2009;Mercedes-Benz;Coupe;04101.jpg
 14;75;624;438;69;9;6;Chevrolet Silverado 2500HD Regular Cab 2012;Chevrolet;Truck;04102.jpg
 117;101;456;414;102;15;0;Ferrari California Convertible 2012;Ferrari;Convertible;04103.jpg
-182;63;565;251;169;36;7;Nissan NV Passenger Van 2012;Nissan;Van;04104.jpg
 65;138;379;310;146;26;5;Jeep Wrangler SUV 2012;Jeep;SUV;04105.jpg
 21;141;573;321;185;44;4;Tesla Model S Sedan 2012;Tesla;Sedan;04106.jpg
 32;90;461;348;135;22;4;Hyundai Elantra Sedan 2007;Hyundai;Sedan;04107.jpg
@@ -4262,7 +4234,6 @@
 9;45;199;181;53;8;6;Cadillac Escalade EXT Crew Cab 2007;Cadillac;Truck;04261.jpg
 85;60;549;360;117;17;4;Ford Fiesta Sedan 2012;Ford;Sedan;04262.jpg
 58;354;741;558;158;31;0;Maybach Landaulet Convertible 2012;Maybach;Convertible;04263.jpg
-194;199;597;480;113;17;6;Ford F-150 Regular Cab 2012;Ford;Truck;04264.jpg
 2;38;535;404;176;40;4;Rolls-Royce Ghost Sedan 2012;Rolls-Royce;Sedan;04265.jpg
 199;74;966;318;55;9;0;Chevrolet Corvette Convertible 2012;Chevrolet;Convertible;04266.jpg
 59;137;760;417;9;2;1;Aston Martin V8 Vantage Coupe 2012;Aston;Coupe;04267.jpg
@@ -4398,7 +4369,6 @@
 13;88;602;393;194;47;4;Volvo 240 Sedan 1993;Volvo;Sedan;04397.jpg
 12;22;262;172;54;9;6;Chevrolet Silverado 1500 Hybrid Crew Cab 2012;Chevrolet;Truck;04398.jpg
 103;55;523;350;99;14;2;FIAT 500 Abarth 2012;FIAT;Hatchback;04399.jpg
-16;29;782;330;4;1;4;Acura TL Type-S 2008;Acura;Sedan;04400.jpg
 43;39;348;221;70;9;6;Chevrolet Silverado 1500 Classic Extended Cab 2007;Chevrolet;Truck;04401.jpg
 24;1;119;99;119;18;7;GMC Savana Van 2012;GMC;Van;04402.jpg
 9;95;293;191;47;7;4;Buick Regal GS 2012;Buick;Sedan;04403.jpg
@@ -4476,7 +4446,6 @@
 14;46;258;155;84;12;8;Dodge Caliber Wagon 2007;Dodge;Wagon;04475.jpg
 156;205;1492;961;130;22;2;Hyundai Veloster Hatchback 2012;Hyundai;Hatchback;04476.jpg
 25;133;972;602;9;2;1;Aston Martin V8 Vantage Coupe 2012;Aston;Coupe;04477.jpg
-33;156;483;386;21;3;0;Audi S5 Convertible 2012;Audi;Convertible;04478.jpg
 6;6;274;183;28;4;1;BMW 1 Series Coupe 2012;BMW;Coupe;04479.jpg
 28;2;641;205;188;45;4;Toyota Corolla Sedan 2012;Toyota;Sedan;04480.jpg
 22;88;609;437;6;1;4;Acura Integra Type R 2001;Acura;Sedan;04481.jpg
@@ -4486,7 +4455,6 @@
 8;43;251;159;31;4;0;BMW 6 Series Convertible 2007;BMW;Convertible;04485.jpg
 147;150;963;513;140;22;4;Hyundai Azera Sedan 2012;Hyundai;Sedan;04486.jpg
 60;117;584;388;49;7;4;Buick Verano Sedan 2012;Buick;Sedan;04487.jpg
-41;112;586;382;128;21;1;Honda Accord Coupe 2012;Honda;Coupe;04488.jpg
 1;200;1278;817;93;12;1;Dodge Challenger SRT8 2011;Dodge;Coupe;04489.jpg
 63;121;1227;795;196;48;0;smart fortwo Convertible 2012;smart;Convertible;04490.jpg
 65;84;636;324;171;36;1;Nissan 240SX Coupe 1998;Nissan;Coupe;04491.jpg
@@ -4673,7 +4641,6 @@
 55;193;1716;1024;112;17;1;Ford GT Coupe 2006;Ford;Coupe;04672.jpg
 14;198;618;437;186;45;5;Toyota Sequoia SUV 2012;Toyota;SUV;04673.jpg
 30;230;965;617;158;31;0;Maybach Landaulet Convertible 2012;Maybach;Convertible;04674.jpg
-10;245;365;447;179;42;0;Spyker C8 Convertible 2009;Spyker;Convertible;04675.jpg
 143;100;796;570;191;46;2;Volkswagen Golf Hatchback 1991;Volkswagen;Hatchback;04676.jpg
 74;47;645;370;11;2;1;Aston Martin Virage Coupe 2012;Aston;Coupe;04677.jpg
 38;170;685;385;105;16;4;Fisker Karma Sedan 2012;Fisker;Sedan;04678.jpg
@@ -4970,7 +4937,6 @@
 10;44;251;175;92;12;8;Dodge Magnum Wagon 2008;Dodge;Wagon;04969.jpg
 102;81;987;604;140;22;4;Hyundai Azera Sedan 2012;Hyundai;Sedan;04970.jpg
 8;30;638;445;131;22;5;Hyundai Santa Fe SUV 2012;Hyundai;SUV;04971.jpg
-17;127;438;274;4;1;4;Acura TL Type-S 2008;Acura;Sedan;04972.jpg
 58;123;1305;1043;196;48;0;smart fortwo Convertible 2012;smart;Convertible;04973.jpg
 181;503;1917;1113;21;3;0;Audi S5 Convertible 2012;Audi;Convertible;04974.jpg
 1;26;185;110;156;29;4;Lincoln Town Car Sedan 2011;Lincoln;Sedan;04975.jpg
@@ -4990,7 +4956,6 @@
 39;225;778;514;29;4;4;BMW 3 Series Sedan 2012;BMW;Sedan;04989.jpg
 45;72;600;347;20;3;4;Audi S6 Sedan 2011;Audi;Sedan;04990.jpg
 28;13;198;152;190;46;2;Volkswagen Golf Hatchback 2012;Volkswagen;Hatchback;04991.jpg
-203;45;497;222;120;18;5;GMC Yukon Hybrid SUV 2012;GMC;SUV;04992.jpg
 89;128;900;661;63;9;4;Chevrolet Sonic Sedan 2012;Chevrolet;Sedan;04993.jpg
 20;9;383;224;121;18;5;GMC Acadia SUV 2012;GMC;SUV;04994.jpg
 98;500;1329;964;92;12;8;Dodge Magnum Wagon 2008;Dodge;Wagon;04995.jpg
@@ -5318,7 +5283,6 @@
 1;35;210;139;161;34;0;Mercedes-Benz 300-Class Convertible 1993;Mercedes-Benz;Convertible;05317.jpg
 142;289;1873;1191;79;10;4;Chrysler 300 SRT-8 2010;Chrysler;Sedan;05318.jpg
 12;48;292;169;17;3;4;Audi 100 Sedan 1994;Audi;Sedan;05319.jpg
-26;138;136;173;158;31;0;Maybach Landaulet Convertible 2012;Maybach;Convertible;05320.jpg
 49;69;859;827;145;26;5;Jeep Patriot SUV 2012;Jeep;SUV;05321.jpg
 31;12;200;137;84;12;8;Dodge Caliber Wagon 2007;Dodge;Wagon;05322.jpg
 103;505;1438;1069;81;10;0;Chrysler PT Cruiser Convertible 2008;Chrysler;Convertible;05323.jpg
@@ -5846,7 +5810,6 @@
 2;29;458;261;78;10;3;Chrysler Town and Country Minivan 2012;Chrysler;Minivan;05845.jpg
 32;16;258;178;143;24;5;Isuzu Ascender SUV 2008;Isuzu;SUV;05846.jpg
 6;16;250;158;123;19;0;Geo Metro Convertible 1993;Geo;Convertible;05847.jpg
-336;217;633;432;6;1;4;Acura Integra Type R 2001;Acura;Sedan;05848.jpg
 77;61;196;148;177;40;4;Rolls-Royce Phantom Sedan 2012;Rolls-Royce;Sedan;05849.jpg
 145;159;1131;820;39;5;0;Bentley Continental Supersports Conv. Convertible 2012;Bentley;Convertible;05850.jpg
 237;144;1359;713;19;3;2;Audi TT Hatchback 2011;Audi;Hatchback;05851.jpg
@@ -5976,7 +5939,6 @@
 43;67;796;562;82;11;8;Daewoo Nubira Wagon 2002;Daewoo;Wagon;05975.jpg
 13;122;633;381;194;47;4;Volvo 240 Sedan 1993;Volvo;Sedan;05976.jpg
 30;85;209;170;83;12;8;Dodge Caliber Wagon 2012;Dodge;Wagon;05977.jpg
-349;199;770;365;101;15;1;Ferrari FF Coupe 2012;Ferrari;Coupe;05978.jpg
 62;59;359;301;139;22;2;Hyundai Elantra Touring Hatchback 2012;Hyundai;Hatchback;05979.jpg
 132;47;520;315;102;15;0;Ferrari California Convertible 2012;Ferrari;Convertible;05980.jpg
 4;11;228;178;104;15;1;Ferrari 458 Italia Coupe 2012;Ferrari;Coupe;05981.jpg
@@ -5991,7 +5953,6 @@
 111;209;712;487;11;2;1;Aston Martin Virage Coupe 2012;Aston;Coupe;05990.jpg
 102;130;574;310;7;1;2;Acura ZDX Hatchback 2012;Acura;Hatchback;05991.jpg
 2;68;604;412;194;47;4;Volvo 240 Sedan 1993;Volvo;Sedan;05992.jpg
-105;495;627;785;140;22;4;Hyundai Azera Sedan 2012;Hyundai;Sedan;05993.jpg
 15;63;211;157;109;17;5;Ford Expedition EL SUV 2009;Ford;SUV;05994.jpg
 24;33;604;395;78;10;3;Chrysler Town and Country Minivan 2012;Chrysler;Minivan;05995.jpg
 37;153;1011;621;37;4;5;BMW X3 SUV 2012;BMW;SUV;05996.jpg
@@ -6180,7 +6141,6 @@
 89;110;1492;761;27;4;0;BMW 1 Series Convertible 2012;BMW;Convertible;06179.jpg
 4;81;500;302;166;34;7;Mercedes-Benz Sprinter Van 2012;Mercedes-Benz;Van;06180.jpg
 20;67;805;567;6;1;4;Acura Integra Type R 2001;Acura;Sedan;06181.jpg
-5;155;396;298;158;31;0;Maybach Landaulet Convertible 2012;Maybach;Convertible;06182.jpg
 9;33;253;125;80;10;0;Chrysler Crossfire Convertible 2008;Chrysler;Convertible;06183.jpg
 112;28;1459;1006;133;22;5;Hyundai Veracruz SUV 2012;Hyundai;SUV;06184.jpg
 37;118;978;628;33;4;5;BMW X6 SUV 2012;BMW;SUV;06185.jpg
@@ -6220,7 +6180,6 @@
 48;57;518;361;82;11;8;Daewoo Nubira Wagon 2002;Daewoo;Wagon;06219.jpg
 13;29;612;423;194;47;4;Volvo 240 Sedan 1993;Volvo;Sedan;06220.jpg
 10;20;267;171;177;40;4;Rolls-Royce Phantom Sedan 2012;Rolls-Royce;Sedan;06221.jpg
-14;20;924;459;15;3;1;Audi R8 Coupe 2012;Audi;Coupe;06222.jpg
 339;360;1375;890;155;28;5;Land Rover LR2 SUV 2012;Land Rover;SUV;06223.jpg
 27;23;102;75;88;12;7;Dodge Sprinter Cargo Van 2009;Dodge;Van;06224.jpg
 111;3;564;429;50;7;5;Buick Enclave SUV 2012;Buick;SUV;06225.jpg
@@ -6320,7 +6279,6 @@
 54;44;1227;750;167;35;4;Mitsubishi Lancer Sedan 2012;Mitsubishi;Sedan;06319.jpg
 44;120;538;366;171;36;1;Nissan 240SX Coupe 1998;Nissan;Coupe;06320.jpg
 174;441;736;679;112;17;1;Ford GT Coupe 2006;Ford;Coupe;06321.jpg
-321;272;644;422;168;36;2;Nissan Leaf Hatchback 2012;Nissan;Hatchback;06322.jpg
 30;45;275;189;44;5;4;Bentley Continental Flying Spur Sedan 2007;Bentley;Sedan;06323.jpg
 64;143;429;359;31;4;0;BMW 6 Series Convertible 2007;BMW;Convertible;06324.jpg
 394;472;1234;859;111;17;6;Ford Ranger SuperCab 2011;Ford;Truck;06325.jpg
@@ -6362,7 +6320,6 @@
 82;38;639;420;99;14;2;FIAT 500 Abarth 2012;FIAT;Hatchback;06361.jpg
 37;201;976;610;147;26;5;Jeep Liberty SUV 2012;Jeep;SUV;06362.jpg
 42;79;601;422;129;21;4;Honda Accord Sedan 2012;Honda;Sedan;06363.jpg
-2;109;359;310;117;17;4;Ford Fiesta Sedan 2012;Ford;Sedan;06364.jpg
 1;1;447;293;127;21;3;Honda Odyssey Minivan 2007;Honda;Minivan;06365.jpg
 52;84;953;532;144;25;1;Jaguar XK XKR 2012;Jaguar;Coupe;06366.jpg
 183;74;504;347;190;46;2;Volkswagen Golf Hatchback 2012;Volkswagen;Hatchback;06367.jpg
@@ -6609,7 +6566,6 @@
 74;59;342;287;108;17;3;Ford Freestar Minivan 2007;Ford;Minivan;06608.jpg
 68;84;696;466;135;22;4;Hyundai Elantra Sedan 2007;Hyundai;Sedan;06609.jpg
 97;210;1211;841;18;3;8;Audi 100 Wagon 1994;Audi;Wagon;06610.jpg
-1;18;449;728;167;35;4;Mitsubishi Lancer Sedan 2012;Mitsubishi;Sedan;06611.jpg
 6;21;394;293;177;40;4;Rolls-Royce Phantom Sedan 2012;Rolls-Royce;Sedan;06612.jpg
 26;91;986;633;192;46;2;Volkswagen Beetle Hatchback 2012;Volkswagen;Hatchback;06613.jpg
 55;53;593;384;178;41;2;Scion xD Hatchback 2012;Scion;Hatchback;06614.jpg
@@ -6718,7 +6674,6 @@
 12;99;559;348;6;1;4;Acura Integra Type R 2001;Acura;Sedan;06717.jpg
 18;38;251;167;119;18;7;GMC Savana Van 2012;GMC;Van;06718.jpg
 6;49;450;338;115;17;4;Ford Focus Sedan 2007;Ford;Sedan;06719.jpg
-148;113;308;220;29;4;4;BMW 3 Series Sedan 2012;BMW;Sedan;06720.jpg
 21;83;417;222;124;20;6;HUMMER H3T Crew Cab 2010;HUMMER;Truck;06721.jpg
 55;489;1994;1207;10;2;0;Aston Martin Virage Convertible 2012;Aston;Convertible;06722.jpg
 68;195;505;421;140;22;4;Hyundai Azera Sedan 2012;Hyundai;Sedan;06723.jpg
@@ -6779,7 +6734,6 @@
 55;77;607;434;155;28;5;Land Rover LR2 SUV 2012;Land Rover;SUV;06778.jpg
 55;67;733;418;34;4;1;BMW M3 Coupe 2012;BMW;Coupe;06779.jpg
 1;25;200;106;122;18;6;GMC Canyon Extended Cab 2012;GMC;Truck;06780.jpg
-26;66;559;286;13;3;1;Audi A5 Coupe 2012;Audi;Coupe;06781.jpg
 66;241;930;610;147;26;5;Jeep Liberty SUV 2012;Jeep;SUV;06782.jpg
 28;98;494;402;107;17;0;Ford Mustang Convertible 2007;Ford;Convertible;06783.jpg
 1;13;300;212;111;17;6;Ford Ranger SuperCab 2011;Ford;Truck;06784.jpg
@@ -6818,7 +6772,6 @@
 85;102;575;407;187;45;4;Toyota Camry Sedan 2012;Toyota;Sedan;06817.jpg
 59;138;1184;887;58;9;5;Chevrolet Traverse SUV 2012;Chevrolet;SUV;06818.jpg
 76;104;253;176;72;9;1;Chevrolet Monte Carlo Coupe 2007;Chevrolet;Coupe;06819.jpg
-63;207;757;526;107;17;0;Ford Mustang Convertible 2007;Ford;Convertible;06820.jpg
 12;31;197;106;88;12;7;Dodge Sprinter Cargo Van 2009;Dodge;Van;06821.jpg
 1;55;1022;709;171;36;1;Nissan 240SX Coupe 1998;Nissan;Coupe;06822.jpg
 457;249;2033;1105;157;30;0;MINI Cooper Roadster Convertible 2012;MINI Cooper;Convertible;06823.jpg
@@ -6843,7 +6796,6 @@
 3;60;286;152;72;9;1;Chevrolet Monte Carlo Coupe 2007;Chevrolet;Coupe;06842.jpg
 107;72;551;432;146;26;5;Jeep Wrangler SUV 2012;Jeep;SUV;06843.jpg
 364;1189;3176;2151;30;4;8;BMW 3 Series Wagon 2012;BMW;Wagon;06844.jpg
-143;214;659;624;181;43;4;Suzuki Aerio Sedan 2007;Suzuki;Sedan;06845.jpg
 97;26;475;439;179;42;0;Spyker C8 Convertible 2009;Spyker;Convertible;06846.jpg
 217;219;830;558;10;2;0;Aston Martin Virage Convertible 2012;Aston;Convertible;06847.jpg
 51;114;393;251;10;2;0;Aston Martin Virage Convertible 2012;Aston;Convertible;06848.jpg
@@ -7107,7 +7059,6 @@
 64;159;757;424;172;37;1;Plymouth Neon Coupe 1999;Plymouth;Coupe;07106.jpg
 161;116;708;409;46;6;1;Bugatti Veyron 16.4 Coupe 2009;Bugatti;Coupe;07107.jpg
 95;232;618;428;6;1;4;Acura Integra Type R 2001;Acura;Sedan;07108.jpg
-391;293;961;673;56;9;1;Chevrolet Corvette ZR1 2012;Chevrolet;Coupe;07109.jpg
 327;208;1691;1307;169;36;7;Nissan NV Passenger Van 2012;Nissan;Van;07110.jpg
 19;71;1227;737;191;46;2;Volkswagen Golf Hatchback 1991;Volkswagen;Hatchback;07111.jpg
 25;67;250;152;45;6;0;Bugatti Veyron 16.4 Convertible 2009;Bugatti;Convertible;07112.jpg
@@ -7395,7 +7346,6 @@
 19;8;776;456;178;41;2;Scion xD Hatchback 2012;Scion;Hatchback;07394.jpg
 133;393;732;709;56;9;1;Chevrolet Corvette ZR1 2012;Chevrolet;Coupe;07395.jpg
 8;85;639;447;74;9;6;Chevrolet Silverado 1500 Extended Cab 2012;Chevrolet;Truck;07396.jpg
-21;134;578;421;123;19;0;Geo Metro Convertible 1993;Geo;Convertible;07397.jpg
 26;80;551;347;27;4;0;BMW 1 Series Convertible 2012;BMW;Convertible;07398.jpg
 73;90;714;383;102;15;0;Ferrari California Convertible 2012;Ferrari;Convertible;07399.jpg
 64;49;656;310;11;2;1;Aston Martin Virage Coupe 2012;Aston;Coupe;07400.jpg
@@ -7520,7 +7470,6 @@
 1;2;120;120;158;31;0;Maybach Landaulet Convertible 2012;Maybach;Convertible;07519.jpg
 66;1;545;396;110;17;5;Ford Edge SUV 2012;Ford;SUV;07520.jpg
 20;260;961;681;114;17;6;Ford F-150 Regular Cab 2007;Ford;Truck;07521.jpg
-132;116;528;307;57;9;1;Chevrolet Corvette Ron Fellows Edition Z06 2007;Chevrolet;Coupe;07522.jpg
 43;85;1573;1162;183;43;2;Suzuki SX4 Hatchback 2012;Suzuki;Hatchback;07523.jpg
 35;46;489;302;81;10;0;Chrysler PT Cruiser Convertible 2008;Chrysler;Convertible;07524.jpg
 31;112;516;384;181;43;4;Suzuki Aerio Sedan 2007;Suzuki;Sedan;07525.jpg
@@ -7740,7 +7689,6 @@
 57;210;593;403;5;1;4;Acura TSX Sedan 2012;Acura;Sedan;07739.jpg
 54;29;380;297;48;7;5;Buick Rainier SUV 2007;Buick;SUV;07740.jpg
 38;66;549;453;115;17;4;Ford Focus Sedan 2007;Ford;Sedan;07741.jpg
-56;234;545;490;103;15;0;Ferrari 458 Italia Convertible 2012;Ferrari;Convertible;07742.jpg
 19;38;234;173;109;17;5;Ford Expedition EL SUV 2009;Ford;SUV;07743.jpg
 333;431;1080;801;9;2;1;Aston Martin V8 Vantage Coupe 2012;Aston;Coupe;07744.jpg
 40;34;600;430;190;46;2;Volkswagen Golf Hatchback 2012;Volkswagen;Hatchback;07745.jpg
@@ -7754,7 +7702,6 @@
 142;88;583;409;188;45;4;Toyota Corolla Sedan 2012;Toyota;Sedan;07753.jpg
 87;33;740;451;189;45;5;Toyota 4Runner SUV 2012;Toyota;SUV;07754.jpg
 1;22;315;200;110;17;5;Ford Edge SUV 2012;Ford;SUV;07755.jpg
-97;141;930;535;180;42;1;Spyker C8 Coupe 2009;Spyker;Coupe;07756.jpg
 68;42;261;192;148;26;5;Jeep Grand Cherokee SUV 2012;Jeep;SUV;07757.jpg
 42;96;774;402;194;47;4;Volvo 240 Sedan 1993;Volvo;Sedan;07758.jpg
 1;34;255;165;19;3;2;Audi TT Hatchback 2011;Audi;Hatchback;07759.jpg
@@ -7944,7 +7891,6 @@
 21;23;247;181;16;3;4;Audi V8 Sedan 1994;Audi;Sedan;07943.jpg
 53;87;604;348;14;3;1;Audi TTS Coupe 2012;Audi;Coupe;07944.jpg
 235;508;1369;982;12;3;0;Audi RS 4 Convertible 2008;Audi;Convertible;07945.jpg
-187;3;593;237;169;36;7;Nissan NV Passenger Van 2012;Nissan;Van;07946.jpg
 14;13;274;151;175;40;0;Rolls-Royce Phantom Drophead Coupe Convertible 2012;Rolls-Royce;Convertible;07947.jpg
 5;4;136;87;1;0;5;AM General Hummer SUV 2000;AM;SUV;07948.jpg
 1;72;624;406;85;12;3;Dodge Caravan Minivan 1997;Dodge;Minivan;07949.jpg
